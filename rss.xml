@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[cenk]]></title>
         <description><![CDATA[cenk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cenk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:55:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 19:55:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cenk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/cenk/d73a6051-1834-4cf4-ac7d-96d68145bb97/index.html</link>
+            <guid isPermaLink="false">d73a6051-1834-4cf4-ac7d-96d68145bb97</guid>
+            <pubDate>Mon, 15 Feb 2016 19:54:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Children are biologically educated to teach themselves. Why are we still trying to educate them and not concentrate on creating the best conditions possible where he/she can learn on his own."]]></title>
             <description><![CDATA[<h1>"Children are biologically educated to teach themselves. Why are we still trying to educate them and not concentrate on creating the best conditions possible where he/she can learn on his own."</h1>]]></description>
-            <link>undefinedchildren-are-biologically-educated-to-teach-themselves-why/index.html</link>
+            <link>https://thegrid.ai/cenk/children-are-biologically-educated-to-teach-themselves-why/index.html</link>
             <guid isPermaLink="false">87b80645-41f7-4989-b69c-08c8fca695e2</guid>
             <pubDate>Mon, 15 Feb 2016 19:54:31 GMT</pubDate>
         </item>
