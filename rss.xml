@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cenk]]></title>
-        <description><![CDATA[cenk]]></description>
+        <title><![CDATA[Cenk Sezgin on Technology, Innovation and Learning]]></title>
+        <description><![CDATA[Cenk Sezgin on Technology, Innovation and Learning]]></description>
         <link>https://thegrid.ai/cenk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 21:53:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cenk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Data Landscape 2016]]></title>
+            <description><![CDATA[<h1>Big Data Landscape 2016</h1>]]></description>
+            <link>https://thegrid.ai/cenk/big-data-landscape-2016/index.html</link>
+            <guid isPermaLink="false">8762c1b0-1b3b-44cb-a9fa-a65d4ac290f5</guid>
+            <pubDate>Mon, 15 Feb 2016 21:53:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://thegrid.ai/cenk/d73a6051-1834-4cf4-ac7d-96d68145bb97/index.html</link>
