@@ -1,0 +1,28 @@
+name: cenk
+favicon: null
+layout_spectrum: 0.14266566094011068
+typography_spectrum: 0.9408158625010401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48204584373161197
+  lightness: 0.5866466141305864
+  saturation: 0.7962370137684047
+  rhythmicContrast: 0.7498471015132964
+purpose: []
