@@ -4,11 +4,24 @@
         <description><![CDATA[Cenk Sezgin on Technology, Innovation and Learning]]></description>
         <link>https://thegrid.ai/cenk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 11:45:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cenk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Parameters of Innovation</p>]]></description>
+            <link>https://thegrid.ai/cenk/parameters-of-innovation/index.html</link>
+            <guid isPermaLink="false">4c6bd103-658a-4acd-97f0-93a2cbb8f180</guid>
+            <pubDate>Thu, 18 Aug 2016 11:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Children are biologically educated to teach themselves. Why are we still trying to educate them and not concentrate on creating the best conditions possible where he/she can learn on his own."]]></title>
+            <link>https://thegrid.ai/cenk/children-are-biologically-educated-to-teach-themselves-why/index.html</link>
+            <guid isPermaLink="false">87b80645-41f7-4989-b69c-08c8fca695e2</guid>
+            <pubDate>Mon, 15 Feb 2016 22:01:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Data Landscape 2016]]></title>
-            <description><![CDATA[<article><h1>Big Data Landscape 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6998fce9d603473271a758d364b7eb28bbb001e2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Big Data Landscape 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35ea2936be6d63378b879bf1d43ef09cf5e179c8.png"></article>]]></description>
             <link>https://thegrid.ai/cenk/big-data-landscape-2016/index.html</link>
             <guid isPermaLink="false">8762c1b0-1b3b-44cb-a9fa-a65d4ac290f5</guid>
             <pubDate>Mon, 15 Feb 2016 21:56:24 GMT</pubDate>
@@ -18,13 +31,6 @@
             <link>https://thegrid.ai/cenk/d73a6051-1834-4cf4-ac7d-96d68145bb97/index.html</link>
             <guid isPermaLink="false">d73a6051-1834-4cf4-ac7d-96d68145bb97</guid>
             <pubDate>Mon, 15 Feb 2016 19:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Children are biologically educated to teach themselves. Why are we still trying to educate them and not concentrate on creating the best conditions possible where he/she can learn on his own."]]></title>
-            <description><![CDATA[<h1>"Children are biologically educated to teach themselves. Why are we still trying to educate them and not concentrate on creating the best conditions possible where he/she can learn on his own."</h1>]]></description>
-            <link>https://thegrid.ai/cenk/children-are-biologically-educated-to-teach-themselves-why/index.html</link>
-            <guid isPermaLink="false">87b80645-41f7-4989-b69c-08c8fca695e2</guid>
-            <pubDate>Mon, 15 Feb 2016 22:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
