@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Parameters of Innovation
-datePublished: '2016-08-18T11:45:14.447Z'
-dateModified: '2016-08-18T11:44:58.223Z'
+datePublished: '2016-08-18T11:47:07.641Z'
+dateModified: '2016-08-18T11:45:21.042Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-18-parameters-of-innovation.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-18-parameters-of-innovation.md
 url: parameters-of-innovation/index.html
 _type: Article
 
