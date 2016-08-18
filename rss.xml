@@ -4,7 +4,7 @@
         <description><![CDATA[Cenk Sezgin on Technology, Innovation and Learning]]></description>
         <link>https://thegrid.ai/cenk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 11:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 11:52:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cenk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/cenk/big-data-landscape-2016/index.html</link>
             <guid isPermaLink="false">8762c1b0-1b3b-44cb-a9fa-a65d4ac290f5</guid>
             <pubDate>Mon, 15 Feb 2016 21:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>There is surely nothing quite so useless as doing with great efficiency what should not be done at all.</p>]]></description>
-            <link>https://thegrid.ai/cenk/d73a6051-1834-4cf4-ac7d-96d68145bb97/index.html</link>
-            <guid isPermaLink="false">d73a6051-1834-4cf4-ac7d-96d68145bb97</guid>
-            <pubDate>Mon, 15 Feb 2016 19:54:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
